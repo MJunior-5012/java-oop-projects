@@ -1,0 +1,4 @@
+work=hatarakimasu
+talk=hanashimasu
+read=yomimasu
+eat=tabemasu
